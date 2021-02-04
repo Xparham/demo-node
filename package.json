@@ -1,0 +1,19 @@
+{
+  "name": "msimbo-sample-demo",
+  "version": "1.0.0",
+  "description": "trying out and understanding node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workshop"
+  ],
+  "author": "Xparham",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.4.0",
+    "express": "^4.17.1"
+  }
+}
