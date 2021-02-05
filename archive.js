@@ -2,6 +2,8 @@ export const person = {
     name: {
         fName: "Xavier",
         lName: "Parham"
+        github: ""
+        email: ""
     },
     location: {
         city : "Boston",
