@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { person } from "./archive.js";
 
 const {location:{city, state}} = person;
