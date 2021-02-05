@@ -1,9 +1,9 @@
 import { person } from "./archive.js";
 
-const {location:{city, state}} = person
-const {name:{fName, lName}} = person 
-const {orgs:{first, second}} = person
-const {edu:{high, uni, concen}} = person
+const {location:{city, state}} = person;
+const {name:{fName, lName, email, github}} = person ;
+const {orgs:{first, second}} = person;
+const {edu:{high, uni, concen}} = person;
 const {community:{heroes, camp, cares}} = person;
 
 console.log( `I am ${fName} ${lName}`)
