@@ -2,7 +2,7 @@ import { person } from "./archive.js";
 
 const { location:{city, state}, name:{fName, lName}, orgs:{first, second}, edu:{high, uni, concen }} = person;
 
-console.log( `I am ${lName} ${fName}`)
+console.log( `I am ${fName} ${lName}`)
 console.log(`-------------------`)
 console.log(`from ${city}, ${state}`)
 console.log(`---------`)
