@@ -4,6 +4,9 @@
   "description": "trying out and understanding node",
   "main": "index.js",
   "type": "module",
+  "bin" : {
+    "x-parham" : "index.mjs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
