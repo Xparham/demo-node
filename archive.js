@@ -1,7 +1,7 @@
 export const person = {
     name: {
         fName: "Xavier",
-        lName: "P."
+        lName: "Parham"
     },
     location: {
         city : "Boston",
