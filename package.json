@@ -1,11 +1,11 @@
 {
   "name": "msimbo-sample-demo",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "trying out and understanding node",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
-  "bin" : {
-    "x-app" : "./index.mjs"
+  "bin": {
+    "x-resume": "./index.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
