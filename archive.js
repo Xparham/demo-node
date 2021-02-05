@@ -16,5 +16,11 @@ export const person = {
         high: "Boston Latin Academy",
         uni: "Umass Lowell",
         concen: "Animation"
-    }
+    },
+
+    community: {
+        heroes: "City Year",
+        camp: "C5 New England (formerly known as Camp Coca Cola Leadership Program)",
+        cares: "Boston Cares"
+    },
 }
